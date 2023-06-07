@@ -1,4 +1,4 @@
-package Variáveis;
+package Variaveis;
 
 public class Variaveis {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Variaveis {
         frase1 = new String("Outra forma de atribuir uma String");
         System.out.println(frase1);
 
-        byte numero2 = 5;
+        byte numero2 = 8;
         System.out.println(numero2);
     }
 }

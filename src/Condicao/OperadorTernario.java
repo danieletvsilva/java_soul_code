@@ -2,6 +2,7 @@ package Condicao;
 
 import java.util.Scanner;
 
+//Em condições if else podemos utilizar o operador ternario
 public class OperadorTernario {
     public static void main(String[] args) {
         //(verificação) ? "caso verdade" : "caso falso"
